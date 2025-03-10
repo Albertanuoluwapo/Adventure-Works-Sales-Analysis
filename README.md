@@ -1,6 +1,7 @@
 # Adventure-Works-Sales-Analysis
 
 ### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/links/fQzLP3lK9H?ctid=cc5894f0-eaa8-4da0-ab90-fd7a73e8a8f3&pbi_source=linkShare)
+[Adventure works.pdf](https://github.com/user-attachments/files/19160286/Adventure.works.pdf)
 
 ## Problem Statement.
 
